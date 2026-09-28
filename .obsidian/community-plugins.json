@@ -1,5 +1,6 @@
 [
   "obsidian-importer",
   "obsidian-file-color",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-dangling-links"
 ]

@@ -103,6 +103,7 @@
       {
         "id": "68b1bbbd69e50e71",
         "type": "tabs",
+        "dimension": 72.91666666666666,
         "children": [
           {
             "id": "dd4bef10df1bd223",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2310 Cyber Forensics/8-21-2026.md",
+                "file": "2310 Cyber Forensics/9-28-2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,10 +180,27 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "b908ac082db80bf6",
+        "type": "tabs",
+        "dimension": 27.083333333333332,
+        "children": [
+          {
+            "id": "8fa25baeee35931e",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {},
+              "icon": "broken-link",
+              "title": "Dangling links"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 287.9000244140625
+    "width": 331.0999755859375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,39 +212,47 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "640060de770416f5",
+  "active": "e4961aaef3d09650",
   "lastOpenFiles": [
-    "What does mentorship mean to me.md",
+    "2210 Data Structures With JAVA/8-24-2026.md",
     "2310 Cyber Forensics/9-28-2026.md",
+    "1220 Object Oriented Design/Obj 1-14-2026.md",
+    "Memory.md",
+    "1220 Object Oriented Design/C++ 1-9-26.md",
+    "Mean Value Theorem.md",
+    "MathHW.md",
+    "MainResume.pdf",
+    "Local LLM.md",
+    "Lockheed Martin Notes.md",
+    "Memory organization.md",
+    "Networking.md",
+    "My smart Battleship code.md",
+    "Minecraft Modpack addon!.md",
+    "null.md",
+    "NSA meeting.md",
+    "NSA advice.md",
+    "NSA 2026.md",
+    "Notes for prank.md",
+    "Pasted image 20251020140904.png",
+    "Pasted image 20251020140916.png",
+    "Pasted image 20260127203223.png",
+    "Pasted image 20260127210410.png",
+    "Pasted image 20260128143312.png",
+    "Pasted image 20260130145812.png",
+    "Pasted image 20260130163828.png",
+    "Pre meeting NSA notes.md",
+    "RT Hydra.md",
+    "What does mentorship mean to me.md",
     "2210 Data Structures With JAVA/9-28-2026.md",
     "CCDC/IP lines.md",
-    "MainResume.pdf",
     "mso7A24.tmp",
     "2210 Data Structures With JAVA/9-25-2026.md",
     "2210 Data Structures With JAVA/9-16-2026.md",
     "2210 Data Structures With JAVA/9-18-2026.md",
-    "2210 Data Structures With JAVA/9-21-2026.md",
-    "CCDC/9-25-2026.md",
-    "Lattice-Based Cryptography.md",
-    "2310 Cyber Forensics/9-25-2026.md",
-    "BAtG Midterm.md",
-    "Codebreaker/codebreaker-2026-overview.md",
-    "Codebreaker/CodeBreakerNeededCommand.md",
-    "2310 Cyber Forensics/9-23-2026.md",
-    "2310 Cyber Forensics/9-16-2026.md",
-    "2310 Cyber Forensics/9-21-2026.md",
-    "NCL/9-22-2026.md",
-    "3420 Cyber Defense/9-22-2026.md",
-    "Local LLM.md",
-    "AI Meeting notes.md",
-    "Notes for prank.md",
-    "CCDC meeting notes.md",
-    "Exercise 1.md",
-    "2310 Cyber Forensics/9-18-2026.md",
-    "Dictonary/Linux Commands/ls.md",
     "NCL",
     "Untitled 1.base",
     "Untitled.base",
@@ -236,13 +262,6 @@
     "Dictonary",
     "~WRL0001.tmp",
     "Untitled.canvas",
-    "Pasted image 20251020140904.png",
-    "Pasted image 20260128143312.png",
-    "Pasted image 20260130163828.png",
-    "Pasted image 20260130145812.png",
-    "Pasted image 20260127210410.png",
-    "Pasted image 20260127203223.png",
-    "Pasted image 20251020140916.png",
     "NCL Challenges '25/Walkthrough Images/WIFI3-aircrack-ng output.png",
     "NCL Challenges '25/Walkthrough Images/WIFI3-Wireshark 2.png",
     "NCL Challenges '25/Walkthrough Images/Wireshark Decrypted 1.png"
