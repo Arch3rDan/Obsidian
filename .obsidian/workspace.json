@@ -164,11 +164,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.9000244140625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,10 +185,11 @@
   },
   "active": "640060de770416f5",
   "lastOpenFiles": [
+    "CCDC/IP lines.md",
+    "2210 Data Structures With JAVA/9-28-2026.md",
     "MainResume.pdf",
     "mso7A24.tmp",
     "2210 Data Structures With JAVA/9-25-2026.md",
-    "2210 Data Structures With JAVA/9-28-2026.md",
     "2210 Data Structures With JAVA/9-16-2026.md",
     "2210 Data Structures With JAVA/9-18-2026.md",
     "2210 Data Structures With JAVA/9-21-2026.md",
@@ -220,7 +221,6 @@
     "Advanced Cyber Maneuvers",
     "Dictonary",
     "~WRL0001.tmp",
-    "~WRD0000.tmp",
     "Untitled.canvas",
     "Pasted image 20251020140904.png",
     "Pasted image 20260128143312.png",
