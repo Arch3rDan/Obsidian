@@ -1,0 +1,2 @@
+$ORIGIN${ORIGIN}/proc/self/
+exe%.*s/etc/ld-musl-x86_64.path/lib:/usr/local/lib:/usr/lib__libc_start_mainstdinlibc.soError loading dependencies for %sError loading shared library %s: %m (needed by %s)__dls2b__dls3 [args]LD_LIBRARY_PATHLD_PRELOAD/proc/lddlistlibrary-pathpreloadargv0musl libc (x86_64)

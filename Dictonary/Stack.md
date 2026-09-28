@@ -1,0 +1,1 @@
+Stack is not initialized in C++

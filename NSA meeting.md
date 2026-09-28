@@ -1,0 +1,9 @@
+NSA meeting SIGN UP NOW! 1/5 chance of getting the [[CJO]] 300 are selected
+for the internship 70% of people apply last minute, get in EARLY!
+
+Get in ASAP! Be on top of the stack!
+
+Once in moving around is easy
+
+Application process: Security Clearance is REQUIRED Resume Skill-based
+hiring? USE DUAL ENROLLMENT \>:D Wait

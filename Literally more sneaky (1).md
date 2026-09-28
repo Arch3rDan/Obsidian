@@ -1,0 +1,14 @@
+spline \<data:graph:tek ???
+
+baseSystem -\> /etc Where passwords are stored baseSystem -\> /var
+Variables are stored /root
+
+/tmp for trash stuff
+
+shell types: sh, csh, ssh, global regular extention print (grep)
+
+sort \| uniq the \| works s
+
++x is add execute to every user +w is add write to every user +r is add
+read to every user
+

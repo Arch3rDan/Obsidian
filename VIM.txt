@@ -1,0 +1,16 @@
+SHIFT ZZ ==> Quit command better than :qw
+
+:e <FILENAME> swap to different file
+:r <FILENAME> insert
+dd (delete lines)
+yy (copy)
+p (pastes)
+u = undo
+CTRL R = redo
+
+
+?as = backwards search
+<SEARCH COMMAND INSERT>
+	N to cycle, SHIFT N to back up
+%s/as/hello/
+

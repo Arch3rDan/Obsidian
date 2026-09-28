@@ -1,0 +1,99 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "OI0gLXq1MTYTfGsfSVIHt",
+      "name": "NCL Example Import",
+      "value": "#ff6666"
+    },
+    {
+      "id": "0wGxz_IKDu3j16H3ddiST",
+      "name": "Definition",
+      "value": "#708dff"
+    },
+    {
+      "id": "wvDJwze5nqVoBfyV8N_gW",
+      "name": "Cyber Classes",
+      "value": "#ecff5c"
+    },
+    {
+      "id": "wbrLyiQRet3TCPLpR6Kxu",
+      "name": "Other Classes",
+      "value": "#7bff57"
+    },
+    {
+      "id": "DaolChwlLR9cy00vMCTdA",
+      "name": "",
+      "value": "#ff42e6"
+    },
+    {
+      "id": "shdlE9nP6l1bXbiZD2lvq",
+      "name": "Competitions",
+      "value": "#9a57ff"
+    },
+    {
+      "id": "_stf2m6weXiUfdK0RBsCT",
+      "name": "Toolkit",
+      "value": "#4df3ff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "NCL Challenges '25",
+      "color": "OI0gLXq1MTYTfGsfSVIHt"
+    },
+    {
+      "path": "NCL Challenges '25/NCL Gymnasium Writeups.md",
+      "color": "OI0gLXq1MTYTfGsfSVIHt"
+    },
+    {
+      "path": "Dictonary",
+      "color": "0wGxz_IKDu3j16H3ddiST"
+    },
+    {
+      "path": "Advanced Cyber Maneuvers",
+      "color": "wvDJwze5nqVoBfyV8N_gW"
+    },
+    {
+      "path": "3420 Cyber Defense",
+      "color": "wvDJwze5nqVoBfyV8N_gW"
+    },
+    {
+      "path": "2310 Cyber Forensics",
+      "color": "wvDJwze5nqVoBfyV8N_gW"
+    },
+    {
+      "path": "2210 Data Structures With JAVA",
+      "color": "wvDJwze5nqVoBfyV8N_gW"
+    },
+    {
+      "path": "1220 Object Oriented Design",
+      "color": "wvDJwze5nqVoBfyV8N_gW"
+    },
+    {
+      "path": "1210 Intro to programming",
+      "color": "wvDJwze5nqVoBfyV8N_gW"
+    },
+    {
+      "path": "CCDC",
+      "color": "shdlE9nP6l1bXbiZD2lvq"
+    },
+    {
+      "path": "Codebreaker",
+      "color": "shdlE9nP6l1bXbiZD2lvq"
+    },
+    {
+      "path": "CPTC",
+      "color": "shdlE9nP6l1bXbiZD2lvq"
+    },
+    {
+      "path": "Literature Hamlet Thing",
+      "color": "wbrLyiQRet3TCPLpR6Kxu"
+    },
+    {
+      "path": "NCL",
+      "color": "OI0gLXq1MTYTfGsfSVIHt"
+    }
+  ]
+}

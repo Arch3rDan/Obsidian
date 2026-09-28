@@ -1,0 +1,1 @@
+When an [[array]] exceeds the segment of the [[Stack]] to which it is assigned

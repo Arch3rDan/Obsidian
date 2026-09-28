@@ -1,0 +1,1 @@
+Null is the lack of a value within a data slot, sometimes it is a slot that is filled with a value considered null, other times it is the representation of the value that results when the variable has not been defined

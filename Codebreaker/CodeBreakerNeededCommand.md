@@ -1,0 +1,3 @@
+sudo mount -t ext2 -o loop
+C:\\Users\\comit\\Downloads\\image.ext2\\image.ext2
+C:\\Users\\comit\\Desktop

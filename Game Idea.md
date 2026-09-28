@@ -1,0 +1,1 @@
+Deck builder RPG but instead of the deck progression being a part of the Roguelike element, it's a rogue lite in which the only carry over between attempts is your deck, and you take on a task that is insurmountable without the help of your deck to guide you forwards to new heights of unlockable cards.

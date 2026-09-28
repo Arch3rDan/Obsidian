@@ -1,0 +1,133 @@
+ENS 242 is home base of Computer lab for help if you get stuck and someone is off campus
+Do not hesitate to ask for help because they're literally paid to help you with figuring stuff out
+	Comfy couches :D
+	Inside the closet of the computer lab is a closet that is a server lab
+		Jerimiah
+		Joshua
+		[J] bible name
+		John is dedicated to our class!
+Lynix Sysytem and C++ are case sensitive 
+	A and a are different because of different binary ASCII codes
+
+ssh comito@john.cedarville.edu
+
+WinSCP
+code file transport is probably easier
+
+ssh = secure shell? 
+
+mkdir HW = make a directory titled HW for homework
+cd HW = enter the HW directory
+vim Friday.cpp = create code file friday
+cp Friday fridaybk = copy the Friday file as fridaybk as a backup
+rm Fridaybk
+cd .. = one level up the tree
+cd ~ = back to the root
+mv Friday Saturday
+
+vi Friday = enter vi editor under file Friday
+rmdir test
+
+exit
+
+
+Go ahead and read ahead of time if you'd like :D
+
+Design: Each one of us was created for a purpose. Society around us will te11 us wh@t th3y th1nk th3 cr3at1on shou1d 100k like.
+	Similarly in this class we are, in the image of God, creating. While designing with a purpose in mind!
+	The goal is to make is both simple enough and complex enough to understand but not obnoxious to write!
+#1: Computer parts:
+	Computers always take in then process and output data
+		input methods: monitor keyboard or mouse...
+		Hard Drive
+			Solid State Drives
+			HDD (Significantly slower than SSD) Hard Disk Drive
+			Used to access files, another input method
+		Expansion Cards:
+			Raspberry Pi
+			Network Card (Connect to other devices :OOO)
+			Graphics Card GPU etc tends to be a processing unit too
+	Processing data
+		Central Processing Unit (CPU)
+		Internal Memory: Running Active Memory (RAM)
+			Memory will not be a huge concern, but we should be as efficiently as possible. Running out = blowup
+	Outputting Data
+		Back to the SSD/HDD
+		Monitor
+		Speakers
+		Expansion Cards Again
+	Eph 2:10 "For we are his workmanship, created in Christ Jesus..."
+If you're working online to compile code, you have to recompile it for Linux
+Linux Environment: Linux is the Kernel, the underlying system. Kernel level anticheat
+	Shell: TC shell is the C shell if you'd like to??
+	Final layer = Utility such as applications with which to edit your code...
+	Linux is open sourced and is highly customizable and a command-line interfaced
+	Utilities: The commands we're using. They're typically the same depending on the shell environment. And interact differently
+		Applications: The behind the scenes that run within the shell :D
+VI Editor: 
+	Highly avialibility lightweight and fast and keyboard centric
+	steep learning curve, not as intuitive, CLI-hased, not GUI
+
+Professor doesn't tend to respond past 9-10 at night
+	Part of computer science is being able to figure out your issues on your own
+	sometimes walking away helps you reset in order to fix things when you come back :)
+		SAVE TIME FOR WALKING AWAY
+
+What IDEs are we allowed to use???
+
+int main(){ //is program start! often things go above for defining what features...
+	then data goes in, variables ---> Storage location for variable, so that we can reference what data we're referencing :P
+		The compiler changes the name because it doesn't care
+		CASE SENSITIVE :O
+			int x = 4;
+			int X = 5
+			X != x
+		EVERY LINE SHOULD realistically END IN A SEMICOLON
+	Whitespace WILL be graded, but it isn't for the compiler, use space not tab for whitespace
+		NO LINE SHOULD BE LONGER THAN 80 CHARACTERS!!!
+			Industry standard
+			idiots on the internet don't tend to care
+		DON'T USE CRUDDY VARIABLE NAMES
+		Fewer comments are bad, keep labels on things but don't label literally everything >:(
+			fix what you might need with variable names and other good practices
+			//TODO add x & y type deal, removes the rough drafts and outline afterwards!!!
+			When you submit, submit the FINAL DRAFT!
+		Change VI session to TAB
+			indentation 2-4 spaces, you'll run out of space
+FOCUS ON ABOVE TIS IMPORTANT
+	setup VI for tab --> spaces
+	Visual studio? Can I use???
+
+#include <iostream>
+	allows for cin cout
+
+using namespace std;
+	std::cin ---> cin
+	std::cout ---> cout
+include is for what you NEED
+	do not get the one that gets everything that's stupid
+		makes everything take forever
+
+comment block to make a title page on the top of code:
+	/************************************************
+	* Summary   : [summarize the code]
+	* Author    : [literally my name]
+	* Date      : [the start month and end month]
+	* Copyright : [only use if you have one]
+	************************************************/
+
+return 0;
+	AT THE END OF ALL YOUR CODE!!!
+
+compilers are getting smarter and tries to point you to where exactly it is at
+
+God SPOKE the world into existance
+language can create :DDD
+
+	More code options:
+		create a file titled test.cpp
+		g++ test.cpp
+		then ls
+		then find a.out
+			or change own output exe file
+			with g++ test.cpp -o firstTest
