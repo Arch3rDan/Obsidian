@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8961fbad2ac02225",
+        "id": "6a587fccb8733eaa",
         "type": "tabs",
         "children": [
           {
-            "id": "640060de770416f5",
+            "id": "6d5d7790e38384c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2310 Cyber Forensics/9-28-2026.md",
+                "file": "2210 Data Structures With JAVA/10-9-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9-28-2026"
-            }
-          },
-          {
-            "id": "a8c28b0673fd1705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What does mentorship mean to me.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What does mentorship mean to me"
+              "title": "10-9-2026"
             }
           }
         ]
@@ -103,7 +89,7 @@
       {
         "id": "68b1bbbd69e50e71",
         "type": "tabs",
-        "dimension": 72.91666666666666,
+        "dimension": 75.49019607843137,
         "children": [
           {
             "id": "dd4bef10df1bd223",
@@ -184,7 +170,7 @@
       {
         "id": "b908ac082db80bf6",
         "type": "tabs",
-        "dimension": 27.083333333333332,
+        "dimension": 24.50980392156863,
         "children": [
           {
             "id": "8fa25baeee35931e",
@@ -200,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.0999755859375
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,29 +202,38 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "640060de770416f5",
+  "active": "6d5d7790e38384c0",
   "lastOpenFiles": [
-    "2310 Cyber Forensics/9-28-2026.md",
+    "2310 Cyber Forensics/10-7-2026.md",
+    "2210 Data Structures With JAVA/10-9-2026.md",
+    "2210 Data Structures With JAVA/10-7-2026.md",
+    "3420 Cyber Defense/10-6-2026.md",
+    "YAFF 10-5-2026.md",
+    "2310 Cyber Forensics/10-5-2026.md",
+    "SuperSneaky.md",
+    "What does mentorship mean to me.md",
+    "2210 Data Structures With JAVA/10-5-2026.md",
+    "Reverse Shell.md",
+    "Turring complete.md",
+    "Turing complete.md",
+    "Yay.md",
+    "Zane Bible Study.md",
+    "2210 Data Structures With JAVA/10-2-2026.md",
+    "2310 Cyber Forensics/10-2-2026.md",
+    "Turn Based Combat Engine/Turn Priority Queue.md",
+    "2210 Data Structures With JAVA/9-25-2026.md",
+    "2210 Data Structures With JAVA/9-28-2026.md",
+    "2210 Data Structures With JAVA/9-30-2026.md",
+    "2310 Cyber Forensics/9-30-2026.md",
+    "1220 Object Oriented Design/Obj 1-28-2026.md",
+    "Dictonary/Encapsulation.md",
+    "NCL Challenges '25/NCL Gymnasium Writeups.md",
+    "NCL Challenges '25/OSINT/Open Source Intelligence.md",
+    "FlareOn 11 Challege 5.md",
+    "Turn Based Combat Engine",
     "~WRL3469.tmp",
     "~WRD3458.tmp",
-    "2210 Data Structures With JAVA/8-24-2026.md",
-    "1220 Object Oriented Design/Obj 1-14-2026.md",
-    "Memory.md",
-    "1220 Object Oriented Design/C++ 1-9-26.md",
-    "Mean Value Theorem.md",
-    "MathHW.md",
     "MainResume.pdf",
-    "Local LLM.md",
-    "Lockheed Martin Notes.md",
-    "Memory organization.md",
-    "Networking.md",
-    "My smart Battleship code.md",
-    "Minecraft Modpack addon!.md",
-    "null.md",
-    "NSA meeting.md",
-    "NSA advice.md",
-    "NSA 2026.md",
-    "Notes for prank.md",
     "Pasted image 20251020140904.png",
     "Pasted image 20251020140916.png",
     "Pasted image 20260127203223.png",
@@ -246,20 +241,12 @@
     "Pasted image 20260128143312.png",
     "Pasted image 20260130145812.png",
     "Pasted image 20260130163828.png",
-    "Pre meeting NSA notes.md",
-    "RT Hydra.md",
-    "What does mentorship mean to me.md",
-    "2210 Data Structures With JAVA/9-28-2026.md",
-    "CCDC/IP lines.md",
     "mso7A24.tmp",
-    "2210 Data Structures With JAVA/9-25-2026.md",
-    "2210 Data Structures With JAVA/9-16-2026.md",
     "NCL",
     "Untitled 1.base",
     "Untitled.base",
     "~$mitoDaniel_PF825.docx",
     "ComitoDaniel_PF825.pdf",
-    "Advanced Cyber Maneuvers",
     "Untitled.canvas",
     "NCL Challenges '25/Walkthrough Images/WIFI3-aircrack-ng output.png",
     "NCL Challenges '25/Walkthrough Images/WIFI3-Wireshark 2.png",

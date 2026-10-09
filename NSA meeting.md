@@ -1,4 +1,4 @@
-NSA meeting SIGN UP NOW! 1/5 chance of getting the [[CJO]] 300 are selected
+NSA meeting SIGN UP NOW! 1/5 chance of getting the [[IJO]] 300 are selected
 for the internship 70% of people apply last minute, get in EARLY!
 
 Get in ASAP! Be on top of the stack!

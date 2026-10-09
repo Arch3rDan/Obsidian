@@ -1,0 +1,1 @@
+The ability to access memory spontaneously, but just kind of pointing at it and asking for it. Contrary to a linked list where you have to find the memory relative to the list, and walk the list. 

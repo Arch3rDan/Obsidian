@@ -1,0 +1,1 @@
+The chunk of memory dedicated to unnamed variables. They require pointers in order to keep track of otherwise they waste memory
