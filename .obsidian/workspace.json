@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b5a57e21572172d",
+        "id": "254d7fc73090b738",
         "type": "tabs",
         "children": [
           {
-            "id": "db7dede1b3f80f17",
+            "id": "28a45801196418bb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -198,8 +198,11 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "db7dede1b3f80f17",
+  "active": "dfbbcfb8ee9540a3",
   "lastOpenFiles": [
+    "2310 Cyber Forensics/11-11-2026.md",
+    "2310 Cyber Forensics/11-2-2026.md",
+    "Untitled.md",
     "2210 Data Structures With JAVA/10-9-2026.md",
     "2310 Cyber Forensics/10-7-2026.md",
     "2210 Data Structures With JAVA/10-7-2026.md",
@@ -223,9 +226,6 @@
     "2310 Cyber Forensics/9-30-2026.md",
     "1220 Object Oriented Design/Obj 1-28-2026.md",
     "Dictonary/Encapsulation.md",
-    "NCL Challenges '25/NCL Gymnasium Writeups.md",
-    "NCL Challenges '25/OSINT/Open Source Intelligence.md",
-    "FlareOn 11 Challege 5.md",
     "Turn Based Combat Engine",
     "~WRL3469.tmp",
     "~WRD3458.tmp",
