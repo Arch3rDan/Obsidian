@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6a587fccb8733eaa",
+        "id": "5b5a57e21572172d",
         "type": "tabs",
         "children": [
           {
-            "id": "6d5d7790e38384c0",
+            "id": "db7dede1b3f80f17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2210 Data Structures With JAVA/10-9-2026.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "10-9-2026"
+              "title": "New tab"
             }
           }
         ]
@@ -202,10 +198,10 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6d5d7790e38384c0",
+  "active": "db7dede1b3f80f17",
   "lastOpenFiles": [
-    "2310 Cyber Forensics/10-7-2026.md",
     "2210 Data Structures With JAVA/10-9-2026.md",
+    "2310 Cyber Forensics/10-7-2026.md",
     "2210 Data Structures With JAVA/10-7-2026.md",
     "3420 Cyber Defense/10-6-2026.md",
     "YAFF 10-5-2026.md",
