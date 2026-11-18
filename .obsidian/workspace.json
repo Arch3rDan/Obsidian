@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "254d7fc73090b738",
+        "id": "efa411703b59a507",
         "type": "tabs",
         "children": [
           {
-            "id": "28a45801196418bb",
+            "id": "fca7bee067f3772b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2310 Cyber Forensics/11-18-2026.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "11-18-2026"
             }
           }
         ]
@@ -198,8 +202,13 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "dfbbcfb8ee9540a3",
+  "active": "fca7bee067f3772b",
   "lastOpenFiles": [
+    "3420 Cyber Defense/11-17-2026.md",
+    "2310 Cyber Forensics/11-18-2026.md",
+    "2310 Cyber Forensics/11-16-2026.md",
+    "CCDC 11-14-2026.md",
+    "2310 Cyber Forensics/11-13-2026.md",
     "2310 Cyber Forensics/11-11-2026.md",
     "2310 Cyber Forensics/11-2-2026.md",
     "Untitled.md",
@@ -221,11 +230,6 @@
     "2310 Cyber Forensics/10-2-2026.md",
     "Turn Based Combat Engine/Turn Priority Queue.md",
     "2210 Data Structures With JAVA/9-25-2026.md",
-    "2210 Data Structures With JAVA/9-28-2026.md",
-    "2210 Data Structures With JAVA/9-30-2026.md",
-    "2310 Cyber Forensics/9-30-2026.md",
-    "1220 Object Oriented Design/Obj 1-28-2026.md",
-    "Dictonary/Encapsulation.md",
     "Turn Based Combat Engine",
     "~WRL3469.tmp",
     "~WRD3458.tmp",
